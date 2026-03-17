@@ -4,7 +4,7 @@ A simple betting game where the player starts with $1000 and wagers money on ran
 
 Each round, a marble is drawn from a bag containing different colors, and the outcome determines how much the player wins or loses.
 
-## ame Rules
+## Game Rules
 
 The bag contains:
 - 4 Green marbles
